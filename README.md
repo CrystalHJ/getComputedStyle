@@ -1,0 +1,2 @@
+# getComputedStyle
+currentStyle与getComputedStyle存在的兼容行为问题
